@@ -13,7 +13,7 @@
 - 🚀 Passionate about Artificial Intelligence and data-driven solutions
 - 📫 How to reach me: [Email](mailto:dvacarezza@gmail.com) | [LinkedIn](https://www.linkedin.com/in/diegovacarezza/)
 
- https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+![1dot1dot1dot1](https://img.shields.io/badge/1.1.1.1-221E68.svg?style=for-the-badge&logo=1dot1dot1dot1&logoColor=white)
 
 ## Projects
 
