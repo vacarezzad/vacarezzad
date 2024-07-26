@@ -3,7 +3,6 @@
 
 ![](https://github.com/vacarezzad/vacarezzad/blob/main/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif)
 
-I'm [vacarezzad](https://github.com/vacarezzad), a passionate developer and data scientist.
 
 ![GitHub followers](https://img.shields.io/github/followers/vacarezzad?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/vacarezzad?style=social)
