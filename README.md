@@ -1,5 +1,5 @@
 
-# Diego Vacarezza | Data Scientist with AI Focus
+# Diego Vacarezza | Data Scientist with AI Focus
 
 ![](https://github.com/vacarezzad/vacarezzad/blob/main/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif)
 
