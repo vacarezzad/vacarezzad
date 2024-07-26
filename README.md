@@ -11,8 +11,9 @@
 ## About Me
 
 - 🚀 Passionate about Artificial Intelligence and data-driven solutions
-- 🐍 Ask me about Python, Machine Learning, Data Science and AI.
 - 📫 How to reach me: [Email](mailto:dvacarezza@gmail.com) | [LinkedIn](https://www.linkedin.com/in/diegovacarezza/)
+
+ https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
 
 ## Projects
 
