@@ -14,6 +14,7 @@
 - 📫 How to reach me: [Email](mailto:dvacarezza@gmail.com) | [LinkedIn](https://www.linkedin.com/in/diegovacarezza/)
 
 ![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ## Projects
 
