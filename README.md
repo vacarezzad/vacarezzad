@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm" width="100"/>
-</div>
-
+<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
 
 
 I'm [vacarezzad](https://github.com/vacarezzad), a passionate developer and data scientist.
