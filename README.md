@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
 I'm [vacarezzad](https://github.com/vacarezzad), a passionate developer and data scientist.
 
 ![GitHub followers](https://img.shields.io/github/followers/vacarezzad?style=social)
@@ -12,13 +11,16 @@ I'm [vacarezzad](https://github.com/vacarezzad), a passionate developer and data
 
 ## About Me
 
-- 💼 Currently working as a Data Scientist.
-- 🌱 Passionate about AI and data science.
-- 💬 Ask me about Python, Data Science, and AI.
-- 📫 How to reach me: [Email](mailto:your.email@example.com).
+- 💼 Currently working as a Data Science Lead.
+- 🌱 Passionate about artificial intelligence and data-driven solutions.
+- 💬 Ask me about Python, data analysis, and AI.
+- 📫 How to reach me: [Email](mailto:dvacarezza@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vacarezzad)
 
 ## Projects
 
 Check out my projects on [GitHub](https://github.com/vacarezzad).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vacarezzad&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true)
+
+![Languages](https://img.shields.io/github/languages/top/vacarezzad/ChatWithExcel)
+![License](https://img.shields.io/github/license/vacarezzad/ChatWithExcel)
