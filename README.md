@@ -10,9 +10,8 @@
 
 ## About Me
 
-- 💼 Currently working as a Data Science Lead.
-- 🌱 Passionate about artificial intelligence and data-driven solutions.
-- 💬 Ask me about Python, data analysis, and AI.
+🚀 Passionate about Artificial Intelligence and data-driven solutions
+🐍 Ask me about Python, Machine Learning, Data Science and AI.
 - 📫 How to reach me: [Email](mailto:dvacarezza@gmail.com) | [LinkedIn](https://www.linkedin.com/in/diegovacarezza/)
 
 ## Projects
